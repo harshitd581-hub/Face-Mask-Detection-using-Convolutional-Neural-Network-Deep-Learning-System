@@ -1,4 +1,4 @@
-Face Mask Detection using CNN (Deep Learning)
+### Face Mask Detection using CNN (Deep Learning)
 
 1. Project Overview
 This project is based on Deep Learning using Convolutional Neural Networks (CNN).
